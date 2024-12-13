@@ -35,7 +35,7 @@ function bloons() {
     var div = document.getElementById("bloonsWindow");
     var button = document.getElementById("bloonsButton");
     ruffle.classList.add("window");
-    ruffle.src = "/ruffle/bloonstd4.swf";
+    ruffle.src = "https://drive.google.com/file/d/1JYyDFuBC_dxQpWQbkQSLHXF1yJAi4Z_4/view?usp=sharing";
     div.insertBefore(ruffle, button);
     button.remove();
 }
@@ -53,7 +53,7 @@ function isaac() {
     var div = document.getElementById("isaacWindow");
     var button = document.getElementById("isaacButton");
     ruffle.classList.add("window");
-    ruffle.src = "/ruffle/BindingofIsaac.swf";
+    ruffle.src = "https://drive.google.com/file/d/1sESKDd_1F_uSajgUJNpVGsxCSeyWI0iv/view?usp=sharing";
     div.insertBefore(ruffle, button);
     button.remove();
 }
@@ -62,7 +62,7 @@ function mario63() {
     var div = document.getElementById("marioWindow");
     var button = document.getElementById("marioButton");
     ruffle.classList.add("window");
-    ruffle.src = "/ruffle/SuperMario63.swf";
+    ruffle.src = "https://drive.google.com/file/d/11xu3VcJfLX1B_7fHB5EnLx8SpoHOdIxa/view?usp=sharing";
     div.insertBefore(ruffle, button);
     button.remove();
 }
